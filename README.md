@@ -161,7 +161,7 @@ Organização semântica do DOM
 
 UX focado em leitura rápida (scan pattern)
 
-![Preview Mobile](./image%20copy.png.png)
+![Preview Mobile](./image1.png)
 
 🔻 3. Rodapé — Footer e Contato
 
@@ -208,7 +208,7 @@ Porque recrutador técnico avalia:
 ✔ uso consciente das tecnologias
 
 
-![Preview Rodape ](./image%20copy%202.png.png)
+![Preview Rodape ](./image2.png)
 ⚙️ Como Executar
 # Clone o repositório
 git clone https://github.com/seu-usuario/moto-ia-mc.git
