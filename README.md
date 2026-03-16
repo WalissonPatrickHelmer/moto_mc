@@ -102,6 +102,7 @@ manipulação dinâmica do DOM
 experiência visual e branding digital
 
 📸 Preview da Interface
+
 🖥️ 1. Topo do Site — Hero Section
 
 A primeira tela apresenta a identidade principal do projeto Moto IA na Estrada M.C., com foco em impacto visual e direcionamento do usuário.
@@ -160,7 +161,7 @@ Organização semântica do DOM
 
 UX focado em leitura rápida (scan pattern)
 
-![Preview Mobile](./image2.png)
+![Preview Mobile](./image%20copy.png.png)
 
 🔻 3. Rodapé — Footer e Contato
 
@@ -207,8 +208,7 @@ Porque recrutador técnico avalia:
 ✔ uso consciente das tecnologias
 
 
-
-![Preview Mobile](./image3.png)
+![Preview Rodape ](./image%20copy%202.png.png)
 ⚙️ Como Executar
 # Clone o repositório
 git clone https://github.com/seu-usuario/moto-ia-mc.git
